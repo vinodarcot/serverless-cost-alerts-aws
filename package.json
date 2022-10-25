@@ -1,0 +1,23 @@
+{
+  "name": "serverless-cost-alerts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-python-requirements": "^5.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekray07/serverless-cost-alerts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abhishekray07/serverless-cost-alerts/issues"
+  },
+  "homepage": "https://github.com/abhishekray07/serverless-cost-alerts#readme",
+  "description": ""
+}
